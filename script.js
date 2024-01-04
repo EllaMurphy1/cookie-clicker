@@ -5,5 +5,6 @@ let score = 0
 button.addEventListener('click', play)
 
 function play(e) {
-    console.log('1')
+    score++;
+    document.querySelector('p').innerText = score
 }
