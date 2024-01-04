@@ -7,9 +7,7 @@ buttonb {
     justify-content: center;
     
 }
-cookieb {
 
-}
 button{
     background-color: gainsboro;
     border: gainsboro;
@@ -18,4 +16,9 @@ button{
 p{
     font-size: 50px;
     font-family:Arial, Helvetica, sans-serif
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    text-align: center;
 }
